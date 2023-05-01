@@ -32,7 +32,7 @@ header p {
     padding-bottom: 2%;
 }
 section p{
-    padding: 10px;
+    padding-bottom: 10px;
 }
 section {
     font-family: var(--fonte3);
