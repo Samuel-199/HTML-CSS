@@ -31,6 +31,9 @@ header h1 {
 header p {
     padding-bottom: 2%;
 }
+section p{
+    padding: 10px;
+}
 section {
     font-family: var(--fonte3);
     padding-top: 5%;
@@ -66,6 +69,7 @@ section#img002{
     background-position: left center;
 }
 footer {
+    padding: 10px 0px 10px 0px;
     background-color: black;
     color: white;
     text-align: center;
